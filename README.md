@@ -20,9 +20,3 @@ The notebook addresses the following problems:
 
 3. **Posterior Probability of Having the Gene**:
    - Calculates the posterior probability of having the gene given multiple positive test results.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
